@@ -4,4 +4,5 @@ branches:
 projects:
   CombatLoggerPE:
     path: ""
+    icon: "resources/CLPE_icon.png"
 ...
