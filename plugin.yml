@@ -1,0 +1,6 @@
+name: CombatLoggerPE
+description: CombatLoggerPE is a plugin that stop players from using commands during pvp!
+authors: [PlexOfDevs]
+main: PlexOfDevs\CombatLoggerPE\CombatLoggerPE
+version: 0.0.1
+api: [3.0.0]
